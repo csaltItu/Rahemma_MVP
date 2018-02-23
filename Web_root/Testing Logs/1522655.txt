@@ -1,0 +1,1363 @@
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L1:::~App: Raah-e-Maa-Cricket-Flyer, Call Type: REM-CMB-CF, Phone Number: 1592, Originating Request ID: 564537, Call ID: 1522655, Country: PK, ouserid: 03314910288, Age: 22, EHLAge: 0, Country Code: 33$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L0:::~Call Table cutoff found at:0$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L0:::~Req Table cutoff found at:0$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L0:::~PGame prompts directory set to: D:/xampp/htdocs/wa/prompts/Urdu/Polly/$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L0:::~PHealth prompts directory set to: D:/xampp/htdocs/wa/prompts/Urdu/EHL/$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L1:::~Now attempting to call: $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L1:::~Calling via WateenE1.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L1:::~Dialling .$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L1:::~1522654 string$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L0:::~Starting Call Recording$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Status.php?callid=1522655&status=InProgress, is returning: Early Return.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Request_Status.php?reqid=564537&status=fulfilled&ch=WateenE1, is returning: Early Return.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L2:::~Call Answered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L1:::~RahemmaMVP entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L1:::~addFunctionLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/insert_function_log.php?functionName=RahemmaMVP&callid=1522655&action=0&userid=1592, is returning: {"result":{"error":false,"id":1462,"message":"Comment Created"}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L1:::~addFunctionLog JSON received: {"result":{"error":false,"id":1462,"message":"Comment Created"}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L1:::~addFunctionLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-10-48~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/MainPrompt1.wav $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-01~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-01~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-01~L1:::~RahemmaMVP prompt: D:/xampp/htdocs/MVP/Prompts/MainPrompt3.wav$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-01~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/MainPrompt3.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-01~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-01~L2:::~gatherInput returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-10~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-10~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 2, name: choice$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-10~L1:::~Stories entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-10~L1:::~addFunctionLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-10~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-10~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/insert_function_log.php?functionName=Stories&callid=1522655&action=0&userid=1592, is returning: {"result":{"error":false,"id":1463,"message":"Comment Created"}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-10~L1:::~addFunctionLog JSON received: {"result":{"error":false,"id":1463,"message":"Comment Created"}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-10~L1:::~addFunctionLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-10~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-10~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/StoriesPrompt1.wav $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-12~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-12~L2:::~sayInt prompt D:/xampp/htdocs/MVP/Prompts/StoriesPrompt1.wav  was barged-in with 1$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-12~L2:::~sayInt complete. Now returning: value: 1, name: choice, attempt: , choice: $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-12~L1:::~Stories prompt: D:/xampp/htdocs/MVP/Prompts/StoriesPrompt2.wav$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-12~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/StoriesPrompt2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-12~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-12~L2:::~gatherInput returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 1, name: choice$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L1:::~listenStories entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L1:::~addFunctionLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/insert_function_log.php?functionName=listenStories&callid=1522655&action=0&userid=1592, is returning: {"result":{"error":false,"id":1464,"message":"Comment Created"}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L1:::~addFunctionLog JSON received: {"result":{"error":false,"id":1464,"message":"Comment Created"}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L1:::~addFunctionLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L1:::~MVP_GetFile entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/get_file_id.php?uid=1592&type=Story&call_id=1522655&attempted=1, is returning: {"result":{"error":false,"files":[{"file_id":"12","name":"12.wav","info":"Story12-1.wav","tip":"Story12tip.wav","cat":"user"},{"file_id":"7","name":"7.wav","info":"Story7-1.wav","tip":"Story7tip.wav","cat":"user"},{"file_id":"8","name":"8.wav","info":"Story8-1.wav","tip":"Story8tip.wav","cat":"user"},{"file_id":"9","name":"9.wav","info":"Story9-1.wav","tip":"Story9tip.wav","cat":"user"}],"type":"Story"}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L1:::~MVP_GetFile JSON received: {"result":{"error":false,"files":[{"file_id":"12","name":"12.wav","info":"Story12-1.wav","tip":"Story12tip.wav","cat":"user"},{"file_id":"7","name":"7.wav","info":"Story7-1.wav","tip":"Story7tip.wav","cat":"user"},{"file_id":"8","name":"8.wav","info":"Story8-1.wav","tip":"Story8tip.wav","cat":"user"},{"file_id":"9","name":"9.wav","info":"Story9-1.wav","tip":"Story9tip.wav","cat":"user"}],"type":"Story"}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L1:::~MVP_GetFile returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L1:::~SIZE:4$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L1:::~MVP_GetFile entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/get_file_id.php?uid=1592&type=Story&call_id=1522655&attempted=0, is returning: {"result":{"error":false,"files":[{"file_id":"12","name":"12.wav","info":"Story12-1.wav","tip":"Story12tip.wav","cat":"user"},{"file_id":"11","name":"11.wav","info":"Story11-1.wav","tip":"Story11tip.wav","cat":"user"},{"file_id":"10","name":"10.wav","info":"Story10-1.wav","tip":"Story10tip.wav","cat":"user"},{"file_id":"1","name":"1.wav","info":"Story1-1.wav","tip":"Story1tip.wav","cat":"user"},{"file_id":"5","name":"5.wav","info":"Story5-1.wav","tip":"Story5tip.wav","cat":"user"},{"file_id":"6","name":"6.wav","info":"Story6-1.wav","tip":"Story6tip.wav","cat":"user"},{"file_id":"4","name":"4.wav","info":"Story4-1.wav","tip":"Story4tip.wav","cat":"user"},{"file_id":"8","name":"8.wav","info":"Story8-1.wav","tip":"Story8tip.wav","cat":"user"},{"file_id":"9","name":"9.wav","info":"Story9-1.wav","tip":"Story9tip.wav","cat":"user"},{"file_id":"3","name":"3.wav","info":"Story3-1.wav","tip":"Story3tip.wav","cat":"user"},{"file_id":"2","name":"2.wav","info":"Story2-1.wav","tip":"Story2tip.wav","cat":"user"},{"file_id":"7","name":"7.wav","info":"Story7-1.wav","tip":"Story7tip.wav","cat":"user"}],"type":"Story"}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L1:::~MVP_GetFile JSON received: {"result":{"error":false,"files":[{"file_id":"12","name":"12.wav","info":"Story12-1.wav","tip":"Story12tip.wav","cat":"user"},{"file_id":"11","name":"11.wav","info":"Story11-1.wav","tip":"Story11tip.wav","cat":"user"},{"file_id":"10","name":"10.wav","info":"Story10-1.wav","tip":"Story10tip.wav","cat":"user"},{"file_id":"1","name":"1.wav","info":"Story1-1.wav","tip":"Story1tip.wav","cat":"user"},{"file_id":"5","name":"5.wav","info":"Story5-1.wav","tip":"Story5tip.wav","cat":"user"},{"file_id":"6","name":"6.wav","info":"Story6-1.wav","tip":"Story6tip.wav","cat":"user"},{"file_id":"4","name":"4.wav","info":"Story4-1.wav","tip":"Story4tip.wav","cat":"user"},{"file_id":"8","name":"8.wav","info":"Story8-1.wav","tip":"Story8tip.wav","cat":"user"},{"file_id":"9","name":"9.wav","info":"Story9-1.wav","tip":"Story9tip.wav","cat":"user"},{"file_id":"3","name":"3.wav","info":"Story3-1.wav","tip":"Story3tip.wav","cat":"user"},{"file_id":"2","name":"2.wav","info":"Story2-1.wav","tip":"Story2tip.wav","cat":"user"},{"file_id":"7","name":"7.wav","info":"Story7-1.wav","tip":"Story7tip.wav","cat":"user"}],"type":"Story"}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L1:::~MVP_GetFile returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L1:::~SIZE:12$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Return2.wav and parameters: [1 DIGITS], dtmf, 1, 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-13~L2:::~gatherInput returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-21~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-21~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 2, name: choice$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-21~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-21~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/Storydisclaimer1.wav$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-25~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-25~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-25~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-11-25~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Story/12.wav$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=12, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-12-43~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=12&type=story, is returning: {"error":false,"count":"0"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L1:::~getUserVotePromptOrder entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getUserVotePromptOrder.php?user_id=1592, is returning: {"error":false,"id":"2"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L1:::~getUserVotePromptOrder JSON received: {"error":false,"id":"2"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L1:::~getUserVotePromptOrder returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions1.1.wav D:/xampp/htdocs/MVP/Prompts/Press1.wav D:/xampp/htdocs/MVP/Prompts/Storyoptions1.2.wav D:/xampp/htdocs/MVP/Prompts/Press2.wav D:/xampp/htdocs/MVP/Prompts/Storyoptions1.3.wav D:/xampp/htdocs/MVP/Prompts/Press3.wav D:/xampp/htdocs/MVP/Prompts/Storyoptions1.4.wav D:/xampp/htdocs/MVP/Prompts/Press4.wav  and parameters: [1 DIGITS], dtmf, 1, 100, 10, keysbadChoiceFCN, keystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-12-43~L2:::~gatherInput returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-21~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-21~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 2, name: choice$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-21~L1:::~setResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-21~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-22~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/response?user_id=1592&call_id=1522655&question_id=12&response=3&response_type=story, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-22~L1:::~setResponse JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-22~L1:::~setResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-22~L1:::~setResponse returning, error=false.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-22~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-22~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/Shukriya1.wav$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-24~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-24~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-24~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-24~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-24~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-24~L2:::~gatherInput returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-29~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-29~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 2, name: choice$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-29~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-29~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-29~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/Nextstory.wav$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-31~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-31~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-31~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-13-31~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Story/7.wav$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Is the current call active? !Nothing ReceivedContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-32~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-32~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-32~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-32~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-32~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-32~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-32~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-32~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-33~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-33~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-33~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-33~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-33~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-33~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-33~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-33~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-33~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-33~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-33~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-33~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-34~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-34~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-34~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-34~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-34~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-34~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-34~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-34~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-34~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-34~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-34~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-35~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-35~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-35~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-35~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-35~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-35~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-35~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-35~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-35~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-35~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-35~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-35~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-36~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-36~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-36~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-36~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-36~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-36~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-36~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-36~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-36~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-36~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-36~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-36~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-37~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-37~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-37~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-37~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-37~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-37~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-37~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-37~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-37~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-37~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-37~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-37~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-38~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-38~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-38~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-38~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-38~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-38~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-38~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-38~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-38~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-38~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-38~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-39~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~vote returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Storyoptions2.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~Bilal Here2$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~Is the current call active? trueContent-Type: api/response. Hanging up if the call is not active.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~setLog entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=89&call_id=1522655&file_id=7, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~setLog returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~setLog returning, error=false.$$%%
+%%$$~~UnAssigned~0~Sun_2017-12-24_16-15-39~L1:::~vote entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~getuserResponse entered.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L0:::~doCurl is called.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=7&type=story, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~getuserResponse returning.$$%%
+%%$$~~1522655~0~Sun_2017-12-24_16-15-39~L1:::~vote returning.$$%%

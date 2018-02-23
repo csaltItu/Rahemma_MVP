@@ -1,0 +1,14 @@
+%%$$~~1522453~0~Thu_2017-12-21_14-35-42~L0:::~doCurl is called.$$%%
+%%$$~~1522453~0~Thu_2017-12-21_14-35-42~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Request_Status.php?reqid=564454&status=unfulfilled&ch=WateenE1, is returning: Early Return.$$%%
+%%$$~~1522453~0~Thu_2017-12-21_14-35-42~L1:::~Call Timed Out.$$%%
+%%$$~~1522453~0~Thu_2017-12-21_14-35-42~L2:::~Prehangup was called.$$%%
+%%$$~~1522453~0~Thu_2017-12-21_14-35-42~L0:::~doCurl is called.$$%%
+%%$$~~1522453~0~Thu_2017-12-21_14-35-42~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Waiting_DLV_Reqs.php?rcallid=1522453, is returning: Early Return.$$%%
+%%$$~~1522453~0~Thu_2017-12-21_14-35-42~L0:::~doCurl is called.$$%%
+%%$$~~1522453~0~Thu_2017-12-21_14-35-42~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Status.php?callid=1522453&status=TimedOut, is returning: Early Return.$$%%
+%%$$~~1522453~0~Thu_2017-12-21_14-35-42~L0:::~calledID: 
+-ERR no reply
+ , SessionID: $$%%
+%%$$~~1522453~0~Thu_2017-12-21_14-35-42~L2:::~Hanging Up. Call ended for callid: 1522453$$%%
+%%$$~~1522453~0~Thu_2017-12-21_14-35-42~L0:::~doCurl is called.$$%%
+%%$$~~1522453~0~Thu_2017-12-21_14-35-42~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Endtime.php?callid=1522453, is returning: 15224530$$%%

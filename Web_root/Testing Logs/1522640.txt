@@ -1,0 +1,48 @@
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L1:::~App: Raah-e-Maa-Plain-Flyer, Call Type: REM-CMB-PF, Phone Number: 1592, Originating Request ID: 564531, Call ID: 1522640, Country: PK, ouserid: 03072731542, Age: 22, EHLAge: 0, Country Code: 33$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L0:::~Call Table cutoff found at:0$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L0:::~Req Table cutoff found at:0$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L0:::~PGame prompts directory set to: D:/xampp/htdocs/wa/prompts/Urdu/Polly/$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L0:::~PHealth prompts directory set to: D:/xampp/htdocs/wa/prompts/Urdu/EHL/$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L1:::~Now attempting to call: $$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L1:::~Calling via WateenE1.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L1:::~Dialling .$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L0:::~Starting Call Recording$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L0:::~doCurl is called.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Status.php?callid=1522640&status=InProgress, is returning: Early Return.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L0:::~doCurl is called.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Request_Status.php?reqid=564531&status=fulfilled&ch=WateenE1, is returning: Early Return.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L2:::~Call Answered.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L1:::~MVP_Delivery_ANS entered.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/RC7.wav  and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-27~L2:::~gatherInput returning.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-42~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-42~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 1, name: choice$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-42~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-42~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/Sawaal.wav D:/xampp/htdocs/MVP/Recs/Q.wav $$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-44~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-44~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-44~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-44~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/Jawaab.wav D:/xampp/htdocs/MVP/Recs/A52.wav$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-48~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-48~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-48~L1:::~RahemmaMVP entered.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-48~L1:::~addFunctionLog entered.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-48~L0:::~doCurl is called.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-48~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/insert_function_log.php?functionName=RahemmaMVP&callid=1522640&action=0&userid=1592, is returning: {"result":{"error":false,"id":1450,"message":"Comment Created"}}$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-48~L1:::~addFunctionLog JSON received: {"result":{"error":false,"id":1450,"message":"Comment Created"}}$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-48~L1:::~addFunctionLog returning.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-48~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-48~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/MainPrompt1.wav $$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-54~L1:::~Is the current call active? false. Hanging up if the call is not active.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-54~L2:::~Prehangup was called.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-54~L0:::~doCurl is called.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-54~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Waiting_DLV_Reqs.php?rcallid=1522640, is returning: Early Return.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-54~L0:::~doCurl is called.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-54~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Status.php?callid=1522640&status=Answered, is returning: Early Return.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-54~L0:::~calledID: 
+-ERR no reply
+ , SessionID: 665f7fb5-ad35-4131-aae9-4e828da8ecea$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-54~L2:::~Hanging Up. Call ended for callid: 1522640$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-54~L0:::~doCurl is called.$$%%
+%%$$~~1522640~0~Sun_2017-12-24_02-15-54~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Endtime.php?callid=1522640, is returning: 15226400$$%%

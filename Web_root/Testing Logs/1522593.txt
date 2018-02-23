@@ -1,0 +1,328 @@
+%%$$~~1522593~0~Sat_2017-12-23_16-44-40~L1:::~App: Raah-e-Maa-Plain-Flyer, Call Type: REM-CMB-PF, Phone Number: 1592, Originating Request ID: 564504, Call ID: 1522593, Country: PK, ouserid: 03314910288, Age: 22, EHLAge: 0, Country Code: 33$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-40~L0:::~Call Table cutoff found at:0$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-40~L0:::~Req Table cutoff found at:0$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-40~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-40~L2:::~sayInt about to play: D:/xampp/htdocs/wa/prompts/Urdu/Polly/sil1500.wav D:/xampp/htdocs/wa/prompts/Urdu/Polly/sil1500.wav $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L0:::~PGame prompts directory set to: D:/xampp/htdocs/wa/prompts/Urdu/Polly/$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L0:::~PHealth prompts directory set to: D:/xampp/htdocs/wa/prompts/Urdu/EHL/$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L1:::~Now attempting to call: $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L1:::~Calling via WateenE1.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L1:::~Dialling .$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L0:::~Starting Call Recording$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Status.php?callid=1522593&status=InProgress, is returning: Early Return.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Request_Status.php?reqid=564504&status=fulfilled&ch=WateenE1, is returning: Early Return.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L2:::~Call Answered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L1:::~RahemmaMVP entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L1:::~addFunctionLog entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/insert_function_log.php?functionName=RahemmaMVP&callid=1522593&action=0&userid=1592, is returning: {"result":{"error":false,"id":1238,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L1:::~addFunctionLog JSON received: {"result":{"error":false,"id":1238,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L1:::~addFunctionLog returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-43~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/MainPrompt1.wav $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-46~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-46~L2:::~sayInt prompt D:/xampp/htdocs/MVP/Prompts/MainPrompt1.wav  was barged-in with 2$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-46~L2:::~sayInt complete. Now returning: value: 2, name: choice, attempt: , choice: $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-46~L1:::~RahemmaMVP prompt: D:/xampp/htdocs/MVP/Prompts/MainPrompt3.wav$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-46~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/MainPrompt3.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-46~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-46~L2:::~gatherInput returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-47~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-47~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 1, name: choice$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-47~L1:::~Questions entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-47~L1:::~addFunctionLog entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-47~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-47~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/insert_function_log.php?functionName=Questions&callid=1522593&action=0&userid=1592, is returning: {"result":{"error":false,"id":1239,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-47~L1:::~addFunctionLog JSON received: {"result":{"error":false,"id":1239,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-47~L1:::~addFunctionLog returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-47~L1:::~Questions prompt: D:/xampp/htdocs/MVP/Prompts/QuestionPrompt1.wav$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-47~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/QuestionPrompt1.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-47~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-47~L2:::~gatherInput returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 3, name: choice$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L1:::~listenOwnQuestion entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L1:::~addFunctionLog entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/insert_function_log.php?functionName=listenOwnQuestion&callid=1522593&action=0&userid=1592, is returning: {"result":{"error":false,"id":1240,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L1:::~addFunctionLog JSON received: {"result":{"error":false,"id":1240,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L1:::~addFunctionLog returning.$$%%
+%%$$~~UnAssigned~0~Sat_2017-12-23_16-44-50~L1:::~getUserQuestions entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/questions_user?user_id=1592&old=0, is returning: {"result":{"error":true,"message":"DB Error"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L1:::~getUserQuestions JSON received: {"result":{"error":true,"message":"DB Error"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L1:::~getUserQuestions returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L1:::~getUserQuestions returning, error=true.$$%%
+%%$$~~UnAssigned~0~Sat_2017-12-23_16-44-50~L1:::~getUserQuestions entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/questions_user?user_id=1592&old=1, is returning: {"result":{"error":false,"user_questions":[{"question_action":"1","question_id":"98","answer_id":"51","faq":null},{"question_action":"1","question_id":"99","answer_id":"52","faq":null}]}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L1:::~getUserQuestions JSON received: {"result":{"error":false,"user_questions":[{"question_action":"1","question_id":"98","answer_id":"51","faq":null},{"question_action":"1","question_id":"99","answer_id":"52","faq":null}]}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L1:::~getUserQuestions returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L1:::~getUserQuestions returning, error=false $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L1:::~ex_questions : Array$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Return1.wav and parameters: [1 DIGITS], dtmf, 1, 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-50~L2:::~gatherInput returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-55~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-55~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 2, name: choice$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-55~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-55~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/Noquestion.wav$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-57~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-57~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-57~L1:::~Something bad happened in listenOwnQuestion$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-57~L1:::~Questions prompt: D:/xampp/htdocs/MVP/Prompts/QuestionPrompt1.wav$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-57~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/QuestionPrompt1.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-57~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-44-57~L2:::~gatherInput returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-03~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-03~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 3, name: choice$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-03~L1:::~listenOwnQuestion entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-03~L1:::~addFunctionLog entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-03~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/insert_function_log.php?functionName=listenOwnQuestion&callid=1522593&action=0&userid=1592, is returning: {"result":{"error":false,"id":1241,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L1:::~addFunctionLog JSON received: {"result":{"error":false,"id":1241,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L1:::~addFunctionLog returning.$$%%
+%%$$~~UnAssigned~0~Sat_2017-12-23_16-45-04~L1:::~getUserQuestions entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/questions_user?user_id=1592&old=0, is returning: {"result":{"error":true,"message":"DB Error"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L1:::~getUserQuestions JSON received: {"result":{"error":true,"message":"DB Error"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L1:::~getUserQuestions returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L1:::~getUserQuestions returning, error=true.$$%%
+%%$$~~UnAssigned~0~Sat_2017-12-23_16-45-04~L1:::~getUserQuestions entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/questions_user?user_id=1592&old=1, is returning: {"result":{"error":false,"user_questions":[{"question_action":"1","question_id":"98","answer_id":"51","faq":null},{"question_action":"1","question_id":"99","answer_id":"52","faq":null}]}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L1:::~getUserQuestions JSON received: {"result":{"error":false,"user_questions":[{"question_action":"1","question_id":"98","answer_id":"51","faq":null},{"question_action":"1","question_id":"99","answer_id":"52","faq":null}]}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L1:::~getUserQuestions returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L1:::~getUserQuestions returning, error=false $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L1:::~ex_questions : Array$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Return1.wav and parameters: [1 DIGITS], dtmf, 1, 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-04~L2:::~gatherInput returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-06~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-06~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 1, name: choice$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-06~L1:::~setLog entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-06~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-06~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=10&call_id=1522593&file_id=98, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-06~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-06~L1:::~setLog returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-06~L1:::~setLog returning, error=false.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-06~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-06~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/Yourquestion.wav D:/xampp/htdocs/MVP/Recs/Q98.wav$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-11~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-11~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-11~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-11~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/Jawaab.wav D:/xampp/htdocs/MVP/Recs/A51.wav D:/xampp/htdocs/MVP/Prompts/Postanswer.wav$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-21~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-21~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~UnAssigned~0~Sat_2017-12-23_16-45-21~L1:::~vote entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-21~L1:::~getuserResponse entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-21~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-21~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=98&type=question, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-21~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-21~L1:::~getuserResponse returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-21~L1:::~vote returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-21~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/PublicAnswer3.wav and parameters: [1 DIGITS], dtmf, 1, 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-21~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-21~L2:::~gatherInput returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-23~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-23~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 1, name: choice$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-23~L1:::~setLog entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-23~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-23~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=10&call_id=1522593&file_id=98, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-23~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-23~L1:::~setLog returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-23~L1:::~setLog returning, error=false.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-23~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-23~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/Yourquestion.wav D:/xampp/htdocs/MVP/Recs/Q98.wav$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-28~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-28~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-28~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-28~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/Jawaab.wav D:/xampp/htdocs/MVP/Recs/A51.wav D:/xampp/htdocs/MVP/Prompts/Postanswer.wav$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-38~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-38~L2:::~sayInt prompt D:/xampp/htdocs/MVP/Prompts/Jawaab.wav D:/xampp/htdocs/MVP/Recs/A51.wav D:/xampp/htdocs/MVP/Prompts/Postanswer.wav was barged-in with 1$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-38~L2:::~sayInt complete. Now returning: value: 1, name: choice, attempt: , choice: $$%%
+%%$$~~UnAssigned~0~Sat_2017-12-23_16-45-38~L1:::~vote entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-38~L1:::~getuserResponse entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-38~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-38~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=98&type=question, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-38~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-38~L1:::~getuserResponse returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-38~L1:::~vote returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-38~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/PublicAnswer3.wav and parameters: [1 DIGITS], dtmf, 1, 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-38~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-38~L2:::~gatherInput returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-40~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-40~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 2, name: choice$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-40~L1:::~setLog entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-40~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-40~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/API/api/add/log?user_id=1592&action_id=10&call_id=1522593&file_id=99, is returning: {"result":{"error":false}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-40~L1:::~setLog JSON received: {"result":{"error":false}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-40~L1:::~setLog returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-40~L1:::~setLog returning, error=false.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-40~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-40~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/Yourquestion.wav D:/xampp/htdocs/MVP/Recs/Q99.wav$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-44~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-44~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-44~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-44~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/Jawaab.wav D:/xampp/htdocs/MVP/Recs/A52.wav D:/xampp/htdocs/MVP/Prompts/Postanswer.wav$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-55~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-55~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~UnAssigned~0~Sat_2017-12-23_16-45-55~L1:::~vote entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-55~L1:::~getuserResponse entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-55~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-55~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/getuserResponse.php?user_id=1592&content_id=99&type=question, is returning: {"error":false,"count":"1"}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-55~L1:::~getuserResponse JSON received: Array$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-55~L1:::~getuserResponse returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-55~L1:::~vote returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-55~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/PublicAnswer3.wav and parameters: [1 DIGITS], dtmf, 1, 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-55~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-45-55~L2:::~gatherInput returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-21~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-21~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 3, name: choice$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-21~L1:::~MVP_Forward entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-21~L1:::~addFunctionLog entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-21~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-22~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/insert_function_log.php?functionName=MVP_Forward&callid=1522593&action=0&userid=1592, is returning: {"result":{"error":false,"id":1242,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-22~L1:::~addFunctionLog JSON received: {"result":{"error":false,"id":1242,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-22~L1:::~addFunctionLog returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-22~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Forward1.wav and parameters: [11 DIGITS], dtmf, 1, 100, 30, 20, keysbadChoiceFCN, ReMkeystimeOutFCN, #, $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-22~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-22~L2:::~gatherInput returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-42~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-42~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 03216818631, name: choice$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-42~L2:::~Friend's phone number entered: 03216818631. Now playing it.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-42~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-42~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/Forward8.wav $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-43~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-43~L2:::~sayInt prompt D:/xampp/htdocs/MVP/Prompts/Forward8.wav  was barged-in with #$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-43~L2:::~sayInt complete. Now returning: value: #, name: choice, attempt: , choice: $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-43~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-43~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/0.wav
+D:/xampp/htdocs/MVP/Prompts/3.wav
+D:/xampp/htdocs/MVP/Prompts/2.wav
+D:/xampp/htdocs/MVP/Prompts/1.wav
+D:/xampp/htdocs/MVP/Prompts/6.wav
+D:/xampp/htdocs/MVP/Prompts/8.wav
+D:/xampp/htdocs/MVP/Prompts/1.wav
+D:/xampp/htdocs/MVP/Prompts/8.wav
+D:/xampp/htdocs/MVP/Prompts/6.wav
+D:/xampp/htdocs/MVP/Prompts/3.wav
+D:/xampp/htdocs/MVP/Prompts/1.wav$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-43~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-43~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-43~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Forward2.wav  and parameters: [1 DIGITS],*,#, dtmf, 1, 100, 5, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-43~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-46-43~L2:::~gatherInput returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 1, name: choice$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L1:::~MVP_GetDeliveryInfo entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/get_delivery_info.php?uid=1592, is returning: {"result":{"error":false,"count":"0"}}
+
+
+$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L1:::~MVP_GetDeliveryInfo JSON received: {"result":{"error":false,"count":"0"}}
+
+
+$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L1:::~MVP_GetDeliveryInfo returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L1:::~MVP_GetDeliveryInfo returning, error=false.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L1:::~MVP_Record entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L1:::~addFunctionLog entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/insert_function_log.php?functionName=MVP_Record_name&callid=1522593&action=0&userid=1592, is returning: {"result":{"error":false,"id":1243,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L1:::~addFunctionLog JSON received: {"result":{"error":false,"id":1243,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L1:::~addFunctionLog returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L2:::~Prompting user to record something of type: name$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L2:::~URI: http://127.0.0.1/MVP/Scripts/save_recording.php?type=name&uid=1592&record_id=1592&call_id=1522593&suno_abbu=true$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L1:::~recordAudio entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L1:::~recordAudio Record Params: Array$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L2:::~recordAudio was called with prompt: D:/xampp/htdocs/MVP/Prompts/Forward3.wav  and parameters: 1, 30, , 5, 10, #, audio/wav, http://127.0.0.1/MVP/Scripts/save_recording.php?type=name&uid=1592&record_id=1592&call_id=1522593&suno_abbu=true$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L1:::~recordAudio handling save_recording$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L1:::~recordAudio type = name , record_id = 1592$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-34~L1:::~recordAudio filepathFS = D:/xampp/htdocs/MVP/Recs/U1592.wav$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-44~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-44~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-44~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/save_recording.php?type=name&uid=1592&record_id=1592&call_id=1522593&suno_abbu=true, is returning: {"result":{"error":false,"message":"Name Must Have Been Saved?"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-44~L2:::~recordAudio complete. Now returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-44~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-44~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/Replay.wav$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-47~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-47~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-47~L2:::~Return value of record: $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-47~L2:::~Replaying the recording of type: name$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-47~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-47~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Recs/U1592.wav$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-50~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-50~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-50~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/Genconfirmation.wav  and parameters: [1 DIGITS],*,#, dtmf, 1, 100, 5, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-50~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-50~L2:::~gatherInput returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 1, name: choice$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L1:::~addFunctionLog entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/insert_function_log.php?functionName=MVP_Record_name&callid=1522593&action=1&userid=1592, is returning: {"result":{"error":false,"id":1244,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L1:::~addFunctionLog JSON received: {"result":{"error":false,"id":1244,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L1:::~addFunctionLog returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L1:::~MVP_Record returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/insertNewPhByMatchingFromOldTable.php?sender=1592&ph=03216818631, is returning: 142566$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L1:::~MVP_CreateDeliveryRequest entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/new_delivery_request.php?uid=1592&file_id=99&call_id=1522593&fuid=142566&type=Question&info=0, is returning: {"result":{"error":false,"id":8,"message":"Delivery Created"}}
+
+
+$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L1:::~MVP_CreateDeliveryRequest JSON received: {"result":{"error":false,"id":8,"message":"Delivery Created"}}
+
+
+$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L1:::~MVP_CreateDeliveryRequest returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L1:::~MVP_CreateDeliveryRequest returning, error=false.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/insertNewPhByMatchingFromOldTable.php?sender=1592&ph=03216818631, is returning: 142566$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/New_Req.php?recid=8&effect=-1&callid=1522593&reqtype=REM-DEL-PF&from=1592&phno=142566&status=Pending&syslang=Urdu&msglang=Urdu&testcall=TRUE&ch=WateenE1, is returning: 564505$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-55~L2:::~sayInt about to play: D:/xampp/htdocs/MVP/Prompts/Forward6.wav $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-59~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-59~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice: $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-59~L1:::~addFunctionLog entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-59~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-59~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/insert_function_log.php?functionName=MVP_Forward&callid=1522593&action=1&userid=1592, is returning: {"result":{"error":false,"id":1245,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-59~L1:::~addFunctionLog JSON received: {"result":{"error":false,"id":1245,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-59~L1:::~addFunctionLog returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-59~L1:::~MVP_Forward returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-59~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/PublicAnswer3.wav and parameters: [1 DIGITS], dtmf, 1, 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-59~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-47-59~L2:::~gatherInput returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-12~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-12~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 4, name: choice$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-12~L1:::~addFunctionLog entered.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-12~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-12~L0:::~doCurl called with url: http://127.0.0.1/MVP/Scripts/insert_function_log.php?functionName=listenOwnQuestion&callid=1522593&action=1&userid=1592, is returning: {"result":{"error":false,"id":1246,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-12~L1:::~addFunctionLog JSON received: {"result":{"error":false,"id":1246,"message":"Comment Created"}}$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-12~L1:::~addFunctionLog returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-12~L1:::~listenOwnQuestion returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-12~L1:::~Questions prompt: D:/xampp/htdocs/MVP/Prompts/QuestionPrompt1.wav$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-12~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/MVP/Prompts/QuestionPrompt1.wav and parameters: [1 DIGITS], dtmf, , 100, 10, keysbadChoiceFCN, ReMkeystimeOutFCN, $$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-12~L1:::~Is the current call active? true. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-12~L2:::~gatherInput returning.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-13~L1:::~Is the current call active? false. Hanging up if the call is not active.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-13~L2:::~Prehangup was called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-13~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-13~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Waiting_DLV_Reqs.php?rcallid=1522593, is returning: Early Return.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-13~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-13~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Status.php?callid=1522593&status=Answered, is returning: Early Return.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-13~L0:::~calledID: 
+-ERR no reply
+ , SessionID: db52d23e-9782-4359-b244-23ff0e7d80a3$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-13~L2:::~Hanging Up. Call ended for callid: 1522593$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-13~L0:::~doCurl is called.$$%%
+%%$$~~1522593~0~Sat_2017-12-23_16-48-13~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Endtime.php?callid=1522593, is returning: 15225930$$%%
