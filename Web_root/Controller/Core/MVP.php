@@ -11,11 +11,10 @@ if(function_exists('date_default_timezone_set'))date_default_timezone_set($time_
 $FreeSwitch   = "true";
 
 //Numbers and ID's used in Testing
-$apnay_banday = array("3566", "03239754007", "26573", "03018444884", "03314910288", "03350883787", "03467776602", "03465765641","03334204496", "1776", "03216818631", "142566", "142562", "03225537934", "147650", "03360434141");
+
 $blocked_Users = array("10636","150569","137052", "146688" , "166594", "19123", "141376", "154164","19123","173877");
 $funquestionmapping = array("1" => "Color", "2" => "Weather", "3" => "Singer" , "4" => "Province", "5" => "Showbiz" ,
  "6" => "Vegetable" );
-// $logFiletest3 = "D:/xampp/htdocs/MVP/Bilal.txt";
 // $testerpolly  = fopen($logFiletest3, 'w');
 // fwrite($testerpolly, "qweqwe");
 //for esl connection
@@ -361,15 +360,6 @@ else{
 	// fwrite($testerpolly, "ouserid: ".$ouserid."\n");
 	// fwrite($testerpolly, "calltype: ".$calltype."\n");
 	// fwrite($testerpolly, "app: ".$app."\n");
-
-	// 	if($userid!="03314910288" && $userid!="03004613744" && $userid!="03465765641" && $userid!="03334204496"
-	// 		&& $userid!="03225537934" && $userid!="03216818631" && $userid!="03214188989" && $userid!="03360434141"
-	// 		&& $userid!="03018444884" && $userid != "03228425252" && $userid != "03347582387" && $userid != "03346728739" && $userid != "03350883787" && $userid != "03228425252" && $userid != "03244892762")
-	// 	{
-	// //		Prehangup();
-	// 		hangupFT();
-	// 		exit(0);
-	// 	}
 
 	if(strpos($Pollyid, $ReMCMBCF) !== FALSE){
 		$testcall 	 = "TRUE";
